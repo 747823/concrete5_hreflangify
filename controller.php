@@ -23,7 +23,7 @@ class Controller extends Package {
 		$pkg = parent::install();
 		// Add single pages
 		$hreflangifyPage = SinglePage::add('/dashboard/system/hreflangify', $pkg);
-		$hreflangifyEditorPage = SinglePage::add('/dashboard/system/hreflangify/editor', $pkg);
+		$hreflangifyEditorPage = SinglePage::add('/dashboard/system/hreflangify/hreflang_editor', $pkg);
 		$hreflangifySettingsPage = SinglePage::add('/dashboard/system/hreflangify/settings', $pkg);
 	}
 
