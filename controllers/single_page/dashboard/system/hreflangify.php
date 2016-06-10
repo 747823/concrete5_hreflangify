@@ -6,7 +6,7 @@ use \Concrete\Core\Page\Controller\DashboardPageController;
 class Hreflangify extends DashboardPageController {
 
 	public function view() {
-		$this->redirect('/dashboard/system/hreflangify/settings');
+		$this->redirect('/dashboard/system/hreflangify/editor');
 	}
 
 }
