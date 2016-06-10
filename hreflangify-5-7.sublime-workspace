@@ -1,0 +1,1572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"copy",
+				"copyFiles"
+			],
+			[
+				"translate",
+				"translate3d()"
+			],
+			[
+				"inter",
+				"intersect"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"extend",
+				"extendTranslation"
+			],
+			[
+				"object",
+				"objectKeysPolyfill"
+			],
+			[
+				"console",
+				"consoleLogPolyfill"
+			],
+			[
+				"cookies",
+				"cookiesAlertMessage"
+			],
+			[
+				"prev",
+				"prevDefaultLinks"
+			],
+			[
+				"parse",
+				"parseURL"
+			],
+			[
+				"curren",
+				"currentSite"
+			],
+			[
+				"execute",
+				"executeOn"
+			],
+			[
+				"execu",
+				"executeOn"
+			],
+			[
+				"partner-center",
+				"partner-center-new"
+			],
+			[
+				"partner-",
+				"partner-resource-center"
+			],
+			[
+				"Rewri",
+				"RewriteRule"
+			],
+			[
+				"hreflang",
+				"hreflangData"
+			],
+			[
+				"langUpper",
+				"langUpper2"
+			],
+			[
+				"included",
+				"includedInHreflang"
+			],
+			[
+				"href",
+				"hreflangController"
+			],
+			[
+				"hreflan",
+				"hreflangController"
+			],
+			[
+				"cp",
+				"countryPathUpper"
+			],
+			[
+				"country",
+				"countryObj"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"pageSele",
+				"pageSelectorPos"
+			],
+			[
+				"count",
+				"countries"
+			],
+			[
+				"itemsPer",
+				"itemsPerPageInt"
+			],
+			[
+				"staticExclude",
+				"staticExcludeAttr"
+			],
+			[
+				"static",
+				"staticExporterPkg"
+			],
+			[
+				"showPAges",
+				"showPagesFrom"
+			],
+			[
+				"showPages",
+				"showPagesFrom"
+			],
+			[
+				"getCollection",
+				"getCollectionName"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ssl-inform",
+				"ssl-information-center"
+			],
+			[
+				"already",
+				"alreadyCounted"
+			],
+			[
+				"async",
+				"asyncResult"
+			],
+			[
+				"change",
+				"changeByHash"
+			],
+			[
+				"for",
+				"google_conversion_format"
+			],
+			[
+				"Res",
+				"ResourceSection"
+			],
+			[
+				"display",
+				"displayResourceBoxesByTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/dashboard/system/hreflangify/controller.php",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controller.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"onvertto tas",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"ommit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"format tags",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"format ",
+				"Format: Javascript"
+			],
+			[
+				"format css",
+				"Format CSS: Expanded"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"fmt tags",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tags ondoc",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"st html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cmm",
+				"Git: Commit"
+			],
+			[
+				"formt",
+				"Format CSS: Expanded"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"tags on doc",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"formt tags",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"gitsavv",
+				"GitSavvy: help"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"format j",
+				"Format: Javascript"
+			],
+			[
+				"convert tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syntax ap",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format ja",
+				"Format: Javascript"
+			],
+			[
+				"format jav",
+				"Format: Javascript"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tag ",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sentax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"tag format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tags",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"syntax plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tag: format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"paste lines",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"tag:",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"beautif",
+				"BeautifyRuby"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/packages/hreflangify",
+		"/var/www/html/packages/hreflangify/controllers",
+		"/var/www/html/packages/hreflangify/controllers/dashboard",
+		"/var/www/html/packages/hreflangify/controllers/dashboard/system",
+		"/var/www/html/packages/hreflangify/controllers/dashboard/system/hreflangify",
+		"/var/www/html/packages/hreflangify/single_pages",
+		"/var/www/html/packages/hreflangify/single_pages/dashboard",
+		"/var/www/html/packages/hreflangify/single_pages/dashboard/system",
+		"/var/www/html/packages/hreflangify/single_pages/dashboard/system/hreflangify"
+	],
+	"file_history":
+	[
+		"/var/www/html/packages/hreflangify/controller.php",
+		"/var/www/html/packages/hreflangify/controllers/dashboard/system/hreflangify/settings/controller.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/.htaccess",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/blog_subscribe/view.php",
+		"/home/snow/Desktop/Blog Sign Up 2015.htm",
+		"/home/snow/Documents/arr_sum.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/globalsign.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/in_base.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/blogindex.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/webinar_landing.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/concretebak/css/webinar-landing.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/packages/static_site_exporter/jobs/export_site.php",
+		"/home/snow/.config/sublime-text-3/Packages/User/bh_core.sublime-settings",
+		"/home/snow/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/snow/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/packages/static_site_exporter/single_pages/dashboard/static_site_exporter/settings/view.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/packages/static_site_exporter/libraries/exporter.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/packages/static_site_exporter/controllers/dashboard/static_site_exporter/settings/controller.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/blank.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_enterprise_ssl.css",
+		"/home/snow/Desktop/test.html",
+		"/media/snow/Coconut/Personal Data/Text files/2016-05/job status.txt",
+		"/media/snow/Coconut/Personal Data/Text files/2016-05/okc profile 2016.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/acton_landing_signup.js",
+		"/home/snow/Documents/coding problem.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_iot_segment.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_iot_segment.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_sp.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_iot.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_home_segmented.css",
+		"/home/snow/Downloads/.htaccess",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/contact.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/new/new-menu.css",
+		"/media/snow/1C042E66042E435E/My Data/Text files/2016-04/importance list.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_sp.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/reviews_form_controller.js",
+		"/media/snow/1C042E66042E435E/My Data/Text files/2016-04/Work tasks for week of 18th",
+		"/media/snow/1C042E66042E435E/My Data/Text files/2016-04/music projects.txt",
+		"/media/snow/1C042E66042E435E/My Data/Text files/2016-04/business card.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/blog_category.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_smb.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_smb.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/new/cta-buttons-orig.css",
+		"/home/snow/Documents/GlobalSign/Sites/hk.globalsign.com/.htaccess",
+		"/media/snow/1C042E66042E435E/My Data/Unknown/Work stuff/GlobalSign/globalsign.co.uk/.htaccess",
+		"/media/snow/1C042E66042E435E/My Data/Unknown/Work stuff/GlobalSign/dev.globalsign.co.uk/.htaccess",
+		"/media/snow/1C042E66042E435E/My Data/Unknown/Work stuff/GlobalSign/dev.globalsign.co.uk/.htaccess2",
+		"/media/snow/1C042E66042E435E/My Data/Text files/my-dev-projects.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/buy_page_new.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/trial_signup.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_product_ssl_inner.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_home_segmented.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/css/page_types/wide_home.css",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/contact_phone_select.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/assets/page_assets.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/whitepaper_landing_with_small_ba.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/whitepaper_landing_with_nav.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/whitepaper_landing.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/whitepaper_landing_no_nav.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/partner_landing.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/landing_with_banner_smaller.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/landing_with_banner_extra.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/landing_wider_sidebar.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/landing_with_banner.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/single_col_landing.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_enterprise_ssl.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/polyfills.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/plugins/plugins.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/assets/deferred_page_assets.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/elements/footer_secure_short.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/elements/footer.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/nav_scroll.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/gcclink.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/defer.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/assets/logged_assets.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/regions.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/translations_de.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/regional_notification.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/products.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/plugins/polyfills.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/site_alerts.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/buy_page_new.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/animate_zoom_in.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/contact_page_acton.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/blogindex-new.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/contact_page.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/find-landing.template.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/description.txt",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/news_archive_old.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/partner_landing_inner_small.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/partner_landing_inner_small_wide.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/news_article.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/news_archive.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/elements/blank_header.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/elements/blog-header.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/seal_generator.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/seal_generator_new.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/newsroom.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/no_nav.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/plugins/underscore.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/plugins/jquery.selectric.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/logged_modules/show_incorrect_links.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/logged_modules/show_guides.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/logged_modules/hide_toolbar.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_product_ssl.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_product_new.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_product_aeg.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_mpki.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_prc.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/wide_iam_solutions.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/page_types/wide_product_ssl.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/stats_counter.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/stack_carousel.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/roll_up_bar_onload.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/roll_up_bar.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/reviews_loader.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/report_abuse_form.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/partner_signup.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/modules/reviews_average_rating.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/product_reviews_individual/view.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/product_reviews_form/view.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/stack_carousel/view.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/product_reviews_average/view.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/blocks/product_reviews_individual/controller.php",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/page_types/products.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/page_types/photo.js",
+		"/home/snow/Documents/test/globalsign/js/auto-translate.js",
+		"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign/js/page_types/example_template.js"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 152.0,
+		"where_history":
+		[
+			"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign",
+			"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/",
+			"/home/snow/Documents/GlobalSign/Sites/webdev.globalsign.com/themes/globalsign-2016"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"cur",
+			"cum",
+			"submitbutton",
+			"doSubmit",
+			"r",
+			"doPrefill",
+			"getParameter",
+			"customSubmitProcessing",
+			"doPrefillOnLoad",
+			"<inp",
+			"<inpu",
+			"ao_",
+			"ao_bot",
+			"ao_p",
+			"\"nope\"",
+			"Email",
+			".mainv2-content-block .sidebar .sidebar-item",
+			"translate",
+			"indent",
+			" <in",
+			"h3",
+			"140px",
+			"filter",
+			"minifi",
+			"minif",
+			"minified",
+			"mirrorAssets",
+			"files",
+			"INCLUDE_CHILDREN",
+			"PAGE_NAMES",
+			"INCLUDE_CHILDREN",
+			"getPage",
+			"filterBy",
+			"$c",
+			"PageList",
+			"Loc",
+			"loc",
+			"Loc",
+			"loc",
+			"currentLocale",
+			"(int)",
+			"$explodedp",
+			"->config",
+			"forceLang",
+			"localeLangs",
+			"center-content",
+			"centered",
+			"e-border",
+			"x red-border",
+			"150",
+			"lapse-borde",
+			"border",
+			"Hubspot",
+			"hubspot",
+			"thrive hive",
+			", ",
+			"| ",
+			"| f(n)",
+			",",
+			"computers",
+			".heigh",
+			".width",
+			".height",
+			".y",
+			".x",
+			"on.",
+			"inter.x",
+			"inter_y",
+			".height",
+			".width",
+			".y",
+			".x",
+			"inter.",
+			"inter.x",
+			"inter_corners",
+			"bottom_y",
+			"left_x",
+			"rect_a",
+			"' => ",
+			"replacements",
+			" =>",
+			".webinar-landing",
+			"click",
+			" we ta",
+			" we t",
+			"location",
+			"Team",
+			"width:",
+			"products",
+			"enterprise",
+			"/products",
+			"enterprise",
+			"/enterprise",
+			"/enterprise?",
+			"/enterprise",
+			"segmented",
+			"src=\"\" />",
+			"<img src=\"\">",
+			"50px",
+			"15px 0 ",
+			"float: left;",
+			"friction",
+			".Math2",
+			"theme",
+			"!important",
+			"h4",
+			"<a",
+			".blue",
+			"#\"><",
+			":url();",
+			" <li></li>",
+			"l",
+			"Bitlist",
+			"bitlist",
+			"arr",
+			"unflattened_deck",
+			"array",
+			"/en-hk/code-signing(/?)$",
+			"/en-hk/code-signin",
+			"^/",
+			"/ /",
+			"/  /",
+			"https://hk.globalsign.com",
+			"highlight-play-button",
+			"link-block",
+			"    ",
+			".segmented"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"blog_header.php",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/dashboard/system/hreflangify/controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 158.0
+	},
+	"output.exec":
+	{
+		"height": 93.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "",
+	"project": "hreflangify-5-7.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".htaccess",
+				".htaccess"
+			],
+			[
+				".htacc",
+				".htaccess"
+			],
+			[
+				"global.js",
+				"themes/globalsign/js/globalsign.js"
+			],
+			[
+				"in_base",
+				"themes/globalsign/css/in_base.css"
+			],
+			[
+				"blogsbuscribe",
+				"blocks/blog_subscribe/view.php"
+			],
+			[
+				"webinar",
+				"themes/globalsign/webinar_landing.php"
+			],
+			[
+				"landing",
+				"concretebak/css/webinar-landing.css"
+			],
+			[
+				"blogindex",
+				"themes/globalsign/blogindex.php"
+			],
+			[
+				"exporter",
+				"packages/static_site_exporter/libraries/exporter.php"
+			],
+			[
+				"weinar_landing",
+				"themes/globalsign/webinar_landing.php"
+			],
+			[
+				"wide_enterprise",
+				"themes/globalsign/css/page_types/wide_enterprise_ssl.css"
+			],
+			[
+				"webinar_land",
+				"themes/globalsign/webinar_landing.php"
+			],
+			[
+				"acton_an",
+				"themes/globalsign/js/modules/acton_landing_signup.js"
+			],
+			[
+				"wide_sp",
+				"themes/globalsign/css/page_types/wide_sp.css"
+			],
+			[
+				"wide_iot",
+				"themes/globalsign/wide_iot.php"
+			],
+			[
+				"_sp",
+				"themes/globalsign/wide_sp.php"
+			],
+			[
+				"wide_home_se",
+				"themes/globalsign/css/page_types/wide_home_segmented.css"
+			],
+			[
+				"new-menu",
+				"themes/globalsign/css/new/new-menu.css"
+			],
+			[
+				"ontact",
+				"themes/globalsign/contact.php"
+			],
+			[
+				"wide_io",
+				"themes/globalsign/wide_iot.php"
+			],
+			[
+				"contact",
+				"themes/globalsign/contact.php"
+			],
+			[
+				"wide_sp.cs",
+				"themes/globalsign/css/page_types/wide_sp.css"
+			],
+			[
+				"blog_ca",
+				"themes/globalsign/blog_category.php"
+			],
+			[
+				"global",
+				"themes/globalsign/js/globalsign.js"
+			],
+			[
+				"cta-btns",
+				"themes/globalsign/css/new/cta-buttons-orig.css"
+			],
+			[
+				"wide_smb.css",
+				"themes/globalsign/css/page_types/wide_smb.css"
+			],
+			[
+				"enterprise_ssl",
+				"themes/globalsign/css/page_types/wide_enterprise_ssl.css"
+			],
+			[
+				"htaccess",
+				".htaccess"
+			],
+			[
+				"in_b",
+				"themes/globalsign/css/in_base.css"
+			],
+			[
+				"trial_sign",
+				"themes/globalsign/js/modules/trial_signup.js"
+			],
+			[
+				"ssl_",
+				"themes/globalsign/wide_product_ssl_inner.php"
+			],
+			[
+				"buy_page",
+				"themes/globalsign/buy_page_new.php"
+			],
+			[
+				"wide_home.css",
+				"themes/globalsign/css/page_types/wide_home.css"
+			],
+			[
+				"wide_home",
+				"themes/globalsign/wide_home.php"
+			],
+			[
+				"contact_phone_se",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"whitepaper",
+				"themes/globalsign/whitepaper_landing_with_small_ba.php"
+			],
+			[
+				"partnerlanding",
+				"themes/globalsign/partner_landing.php"
+			],
+			[
+				"landing.php",
+				"themes/globalsign/single_col_landing.php"
+			],
+			[
+				"_landing",
+				"themes/globalsign/partner_landing.php"
+			],
+			[
+				"webinar_landing",
+				"themes/globalsign/webinar_landing.php"
+			],
+			[
+				"polyf",
+				"themes/globalsign/js/polyfills.js"
+			],
+			[
+				"plugins",
+				"themes/globalsign/js/plugins/plugins.js"
+			],
+			[
+				"page_assets",
+				"themes/globalsign/assets/page_assets.php"
+			],
+			[
+				"globalsignfooter",
+				"themes/globalsign/js/modules/reviews_form_controller.js"
+			],
+			[
+				"footer.",
+				"themes/globalsign/elements/footer.php"
+			],
+			[
+				"defer",
+				"themes/globalsign/assets/deferred_page_assets.php"
+			],
+			[
+				"globalsign",
+				"themes/globalsign/js/globalsign.js"
+			],
+			[
+				"polyfills",
+				"themes/globalsign/js/polyfills.js"
+			],
+			[
+				"nav_",
+				"themes/globalsign/js/nav_scroll.js"
+			],
+			[
+				"contact_ho",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"regions.js",
+				"themes/globalsign/js/regions.js"
+			],
+			[
+				"plugins.js",
+				"themes/globalsign/js/plugins/plugins.js"
+			],
+			[
+				"contact.php",
+				"themes/globalsign/contact.php"
+			],
+			[
+				"gcclink",
+				"themes/globalsign/js/gcclink.js"
+			],
+			[
+				"contact_page_acton",
+				"themes/globalsign/js/modules/contact_page_acton.js"
+			],
+			[
+				"buy",
+				"themes/globalsign/js/modules/buy_page_new.js"
+			],
+			[
+				"zoom",
+				"themes/globalsign/js/modules/animate_zoom_in.js"
+			],
+			[
+				"globalsign.js",
+				"themes/globalsign/js/globalsign.js"
+			],
+			[
+				"products.js",
+				"themes/globalsign/js/products.js"
+			],
+			[
+				"deferred",
+				"themes/globalsign/assets/deferred_page_assets.php"
+			],
+			[
+				"logged_assets",
+				"themes/globalsign/assets/logged_assets.php"
+			],
+			[
+				"acton_landing",
+				"themes/globalsign/js/modules/acton_landing_signup.js"
+			],
+			[
+				"wide_",
+				"themes/globalsign/wide_enterprise_ssl.php"
+			],
+			[
+				"wide_iam",
+				"themes/globalsign/wide_iam_solutions.php"
+			],
+			[
+				"wide_product_ssl",
+				"themes/globalsign/js/page_types/wide_product_ssl.js"
+			],
+			[
+				"stack_carou",
+				"blocks/stack_carousel/view.php"
+			],
+			[
+				"contact_phone",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"reviews_loader",
+				"themes/globalsign/js/modules/reviews_loader.js"
+			],
+			[
+				"photo",
+				"themes/globalsign/js/page_types/photo.js"
+			],
+			[
+				"products.php",
+				"themes/globalsign/products.php"
+			],
+			[
+				"photo.p",
+				"themes/globalsign/photo.php"
+			],
+			[
+				"aeg.php",
+				"themes/globalsign/wide_product_aeg.php"
+			],
+			[
+				"product",
+				"themes/globalsign/product.php"
+			],
+			[
+				"acton-",
+				"themes/globalsign/js/acton-landing-signup.js"
+			],
+			[
+				"regional_not",
+				"themes/globalsign/js/regional_notification.js"
+			],
+			[
+				"page_assets.php",
+				"themes/globalsign/assets/page_assets.php"
+			],
+			[
+				"config/site.ph",
+				"config/site.php"
+			],
+			[
+				"package.js",
+				"packages/static_site_exporter/composer.json"
+			],
+			[
+				"cm-mini.js",
+				"themes/globalsign/js/cm-mini.js"
+			],
+			[
+				"regional_noti",
+				"themes/globalsign/js/regional_notification.js"
+			],
+			[
+				"regional",
+				"themes/globalsign/js/regional_notification.js"
+			],
+			[
+				"region",
+				"themes/globalsign/js/regions.js"
+			],
+			[
+				"blogindex.php",
+				"themes/globalsign/blogindex.php"
+			],
+			[
+				"blog_post",
+				"themes/globalsign/blog_post.php"
+			],
+			[
+				"contact.pp",
+				"themes/globalsign/contact.php"
+			],
+			[
+				"assets.php",
+				"themes/globalsign/assets/page_assets.php"
+			],
+			[
+				"footer_assets",
+				"themes/globalsign-2016/assets/footer_assets.php"
+			],
+			[
+				"sitemap_drag_re",
+				"concrete/tools/dashboard/sitemap_drag_request.php"
+			],
+			[
+				"webinar-landing",
+				"concretebak/css/webinar-landing.css"
+			],
+			[
+				"hreflang_updater",
+				"packages/hreflangify/jobs/hreflang_updater.php"
+			],
+			[
+				"contact_phone_select",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"buypage",
+				"themes/globalsign-2016/buy_page.php"
+			],
+			[
+				"homebase",
+				"themes/globalsign-2016/css/homebase.css"
+			],
+			[
+				"page_assets.p",
+				"themes/globalsign-2016/assets/page_assets.php"
+			],
+			[
+				"properties",
+				"concretebak/elements/permission/keys/edit_page_properties.php"
+			],
+			[
+				"page.php",
+				"concrete/core/models/page.php"
+			],
+			[
+				"hreflang_editor.js",
+				"packages/hreflangify/js/hreflang_editor.js"
+			],
+			[
+				"ssl-inner",
+				"themes/globalsign/css/new/product-wide-ssl-inner.css"
+			],
+			[
+				"product-wide-ssl-inner",
+				"themes/globalsign/css/new/product-wide-ssl-inner.css"
+			],
+			[
+				"wide-home.css",
+				"themes/globalsign/css/new/wide-home.css"
+			],
+			[
+				"pagelist",
+				"concretebak/core/models/page_list.php"
+			],
+			[
+				"pagelist.php",
+				"concrete/core/controllers/blocks/page_list.php"
+			],
+			[
+				"blog",
+				"themes/globalsign/blogindex.php"
+			],
+			[
+				"export_site",
+				"packages/static_site_exporter/jobs/export_site.php"
+			],
+			[
+				"static_site_exporter",
+				"packages/static_site_exporter/libraries/exporter.php"
+			],
+			[
+				"hreflangifyview",
+				"packages/hreflangify/single_pages/dashboard/hreflangify/hreflang_editor/view.php"
+			],
+			[
+				"header_re",
+				"elements/header_required.php"
+			],
+			[
+				"hreflangify_view",
+				"packages/hreflangify/single_pages/dashboard/hreflangify/hreflang_editor/view.php"
+			],
+			[
+				"header_required",
+				"elements/header_required.php"
+			],
+			[
+				"blog_index",
+				"concrete/blocks/page_list/templates/blog_index.php"
+			],
+			[
+				"exporter.php",
+				"packages/static_site_exporter/libraries/exporter.php"
+			],
+			[
+				"header",
+				"elements/header_required.php"
+			],
+			[
+				"header.php",
+				"themes/globalsign/elements/header.php"
+			],
+			[
+				"reviewaverage",
+				"blocks/product_reviews_average/controller.php"
+			],
+			[
+				"phone_sel",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"phone",
+				"themes/globalsign/js/contact_phone_select.js"
+			],
+			[
+				"averageview.php",
+				"blocks/product_reviews_average/view.php"
+			],
+			[
+				"ssl_inner",
+				"themes/globalsign/wide_product_ssl_inner.php"
+			],
+			[
+				"average",
+				"blocks/product_reviews_average/view.php"
+			],
+			[
+				"dashboardcontroller",
+				"concrete/controllers/dashboard/controller.php"
+			],
+			[
+				"pt-br.css",
+				"themes/globalsign/css/pt-br.css"
+			],
+			[
+				"inner.css",
+				"themes/globalsign/css/inner.css"
+			],
+			[
+				"contact_page",
+				"themes/globalsign/js/contact_page_acton.js"
+			],
+			[
+				"tran",
+				"themes/globalsign/js/translations-pt.js"
+			],
+			[
+				"photo.php",
+				"themes/globalsign/photo.php"
+			],
+			[
+				"auto-trans",
+				"themes/globalsign/js/auto-translate.js"
+			],
+			[
+				"translations-pt",
+				"themes/globalsign/js/translations-pt.js"
+			],
+			[
+				"auto-transate",
+				"themes/globalsign/js/auto-translate.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/epipta.com/epipta.com.sublime-project"
+			],
+			[
+				"bitl",
+				"~/Documents/bitlist/bitlist.sublime-project"
+			],
+			[
+				"poker",
+				"~/Documents/poker new/poker-game.sublime-workspace"
+			],
+			[
+				"web",
+				"~/Documents/GlobalSign/webdev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
